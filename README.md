@@ -3,7 +3,7 @@
   [Application live here](https://quinnpucci.github.io/robot-gladiators/)
 
   ## Description
-  A JavaScript only game using window alerts. This was my first JavaScript project ever
+  A JavaScript only game using window alerts. My first JavaScript project ever.
 
   ## Contributors
   Quinn Pucci
