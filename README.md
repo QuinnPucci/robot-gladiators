@@ -1,4 +1,4 @@
-## Robot Gladiators
+# Robot Gladiators
 
   [Application live here](https://quinnpucci.github.io/robot-gladiators/)
 
